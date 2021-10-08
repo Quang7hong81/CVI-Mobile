@@ -1,9 +1,9 @@
 ---
-name: vcsc.com.vn
+name: VCSC
 about: " Viet Capital Securities Joint Stock Company - VCSC"
 title: Viet Capital Securities Joint Stock Company - VCSC
-labels: ''
-assignees: QuangThong1
+labels: invest-vcsc-com-vn 
+assignees: THONG NGO
 
 ---
 
