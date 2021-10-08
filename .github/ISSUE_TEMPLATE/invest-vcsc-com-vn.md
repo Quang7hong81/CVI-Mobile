@@ -2,7 +2,7 @@
 name: invest-vcsc-com-vn
 about: Viet Capital Securities Your Best Solution
 title: Viet Capital Securities Your Best Solution
-labels: ''
+labels: invest-vcsc-com-vn
 assignees: QuangThong1
 
 ---
