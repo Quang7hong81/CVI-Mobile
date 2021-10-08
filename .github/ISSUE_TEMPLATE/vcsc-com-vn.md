@@ -1,5 +1,5 @@
 ---
-name: VCSC
+name: vcsc.com.vn
 about: " Viet Capital Securities Joint Stock Company - VCSC"
 title: Viet Capital Securities Joint Stock Company - VCSC
 labels: invest-vcsc-com-vn 
