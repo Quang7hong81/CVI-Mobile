@@ -2,7 +2,7 @@
 name: Viet Capital Securities JSC
 about: Edit message when placing orders
 title: VCI Mobile S
-labels: Viet Capital Securities Joint Stock Company
+labels: ''
 assignees: QuangThong1
 
 ---
