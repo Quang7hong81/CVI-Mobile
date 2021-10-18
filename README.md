@@ -1,15 +1,14 @@
-### Lê Đặng Trung Hiếu
-#### Supervisor | ABS, Viet Capital Securities Joint Stock Company (VCSC)
-- :zap: I love math, stock market, marketing and data science.
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my website
-- 📫 How to find me: 
-  - :bulb: [Website articles](http://cafechungkhoan.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
-- 📫 My top skill: 
-  - :atom: Search Engine Optimization (SEO)
-  - :atom: Digital Ads Manager, Digital Strategies
-  - :atom: Python (Programming Language) for Data Science & Machine Learning
-  
-  # Author: THONG NGO 
-    E-mail: quangthong1011@gmail.com
+About this app
+Stock trading software new version of VietCapital Securities
+
+ Trading application via smartphone of Viet Capital Securities Joint Stock Company VCSC (VietCapital Securities).
+
+ VCI Mobile S (New) Features:
+ - New interface design
+ - Fast and stable
+ - Faster and more convenient order placement interface: Quick order placement
+ - Support many types of conditional commands
+ - Provide useful information.
+
+# Author: THONG NGO
+  E-mail: quangthong1011@gmail.com
