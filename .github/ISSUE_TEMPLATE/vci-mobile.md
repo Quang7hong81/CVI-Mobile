@@ -1,9 +1,9 @@
 ---
-name: VCI Mobile
-about: VCSC Mobile Trading System
+name: Viet Capital Securities
+about: VCI Mobile
 title: Stock trading software new version of VietCapital Securities
-labels: VCI Mobile
-assignees: QuangThong1
+labels: THONG NGO
+assignees: THONG NGO 
 
 ---
 
