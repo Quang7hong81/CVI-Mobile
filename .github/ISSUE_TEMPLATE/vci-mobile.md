@@ -2,9 +2,9 @@
 name: Viet Capital Securities
 about: VCI Mobile
 title: Stock trading software new version of VietCapital Securities
-labels: THONG NGO
+labels: THONG NGO 
 assignees: THONG NGO 
-
+e-mail: quangthong1011@gmail.com
 ---
 
 Trading application via smartphone of Viet Capital Securities Joint Stock Company VCSC 
